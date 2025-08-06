@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UIU Academic Calendar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-4xl font-bold text-center text-gray-800 mb-8">UIU Academic Calendar</h1>
+        <div id="calendar-links" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- Calendar links will be inserted here by JavaScript -->
+        </div>
+    </div>
+
+    <script>
+        // In a real application, you would fetch the list of .ics files from Firebase Storage.
+        // For this example, I'm using the files we've already generated.
+        const calendarFiles = [
+            "Spring_2025_Semester_Bachelor_of_Pharmacy_(B._Pharm)_[Revised].ics",
+            "Spring_2025_Trimester_Graduate_Programs_[Revised].ics",
+            "Spring_2025_Trimester_Undergraduate_Programs_(Except_B._Pharm)_[Revised].ics",
+            "Summer_2025_Trimester_Graduate_Programs.ics",
+            "Summer_2025_Trimester_Undergraduate_Programs.ics"
+        ];
+
+        const calendarLinksContainer = document.getElementById("calendar-links");
+
+        calendarFiles.forEach(file => {
+            const link = document.createElement("a");
+            link.href = file;
+            link.download = file;
+            link.className = "block bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300";
+
+            const title = document.createElement("h2");
+            title.className = "text-xl font-semibold text-gray-700 mb-2";
+            title.textContent = file.replace(/_/g, " ").replace(".ics", "");
+
+            const downloadButton = document.createElement("button");
+            downloadButton.className = "bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded";
+            downloadButton.textContent = "Download";
+
+            link.appendChild(title);
+            link.appendChild(downloadButton);
+            calendarLinksContainer.appendChild(link);
+        });
+    </script>
+</body>
+</html>

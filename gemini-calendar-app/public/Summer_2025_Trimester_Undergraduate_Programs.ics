@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+SUMMARY:Holiday: Durga Puja (Only classes will remain suspended)
+UID:9ee5741a-3824-44fd-ac78-01a8f1a7d2d5@9ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Last day to drop course(s) with 100% adjustable refund only
+UID:5651e6ac-f84d-4c9a-a530-7b259f3932d6@5651.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Holiday: Janmashtami
+UID:296380ca-0420-4d39-b689-9437d2b31d08@2963.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251009
+SUMMARY:Make-up class: Regular Wednesday Classes
+UID:4d2c80d9-aca9-4abf-837d-b60b8fd13eae@4d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+SUMMARY:Last day of Grade Submission (including Self-Study courses)
+UID:c07d3dc3-7c05-4413-92ac-8e347882746a@c07d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251012
+SUMMARY:3rd installment:  A fine of Tk. 500/- will be imposed if 100% Tuition Fee and Trimester Fee is not paid within this date.
+UID:b9e3e863-1e07-44b2-9693-35412d2735bb@b9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Last day to apply for Grade Change of a course (if any) of Spring 2025 Trimester.\nNote: No application will be considered after the deadline.
+UID:a0dda853-93f2-4228-8caf-db12a5cd6283@a0dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+SUMMARY:Last Day of Course Withdrawal
+UID:a66f650b-4af5-4ecf-9084-f4fe10a39c5f@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+SUMMARY:Holiday:  *Eid-e-Miladunnabi
+UID:41e6d506-e227-441b-ae87-38adcc516790@41e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Holiday: July Mass Uprising Day
+UID:bf41a676-b02d-4888-9d50-853eb99e10b4@bf41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Last day of Course Advising & Registration with a Fine of Tk. 500/-\nLast day of Grade Submission of Incomplete Grades of Spring 2025 Trimester by concerned Department/Program Office
+UID:c7567f23-d839-4310-9e77-4fb66f1c6e12@c756.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250918
+SUMMARY:Make-up class: Regular Tuesday Classes
+UID:d18612fe-dcf8-4aa7-b656-e08fb39ff5b7@d186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+SUMMARY:Classes will remain suspended
+UID:302de038-47cb-4dab-8510-7aeade872da9@302d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Last day to drop course(s) with 50% adjustable refund only
+UID:f64f5f68-8129-40c3-88f1-4032f5b9edf0@f64f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Classes Begin
+UID:3608230b-00be-4d5d-8188-dd38025ed5ca@3608.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Course Advising & Registration
+UID:dd5d7525-bcb0-40a7-890c-06a3b021cdac@dd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250821
+SUMMARY:Make-up class: Regular Saturday Classes
+UID:8a4f0a39-4acf-498e-bb94-a7970bfef6f6@8a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Last day of Course Advising & Registration without Fine
+UID:b9e0ed85-9b05-4633-94cd-898fea5c7588@b9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Mid-Term Exam
+UID:c343b1e9-4810-4a51-a804-02e107820d32@c343.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+SUMMARY:Final Exam
+UID:1d75b197-5929-4ecc-8b99-851323bd83d8@1d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Last day of Grade Submission for Project/ Thesis (Final Year Design Project)/ Internship/ Research Project
+UID:e89d1fc9-20e3-42d1-a978-fe4fb0b557c2@e89d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+SUMMARY:2nd installment:  A fine of Tk. 500/- will be imposed if 70% Tuition Fee and Trimester Fee is not paid within this date.
+UID:999c2a3f-ea2b-43b0-aae2-976623ec1f15@999c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+SUMMARY:1st installment: A fine of Tk. 500/- will be imposed if 40% Tuition Fee and Trimester Fee is not paid within this date.\nTransportation fee\, if applicable\, must be paid in full (no installment)
+UID:dea6eb77-a882-4505-b612-8ae5235905ad@dea6.org
+END:VEVENT
+END:VCALENDAR

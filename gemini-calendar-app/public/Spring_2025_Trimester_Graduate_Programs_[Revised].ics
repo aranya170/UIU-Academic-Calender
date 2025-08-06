@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250716
+SUMMARY:Jul 16\, 2025 Wed Last day of Grade Submission (including Self-Study courses)
+UID:34a48e2a-0a4e-49d4-89c8-1fb30d8b5df6@34a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+SUMMARY:Last Day of Course Withdrawal
+UID:96ad143d-6729-4d6e-9ddd-c2acc8c5c956@96ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250309
+SUMMARY:Last day to drop course(s) with 50% adjustable refund only
+UID:f199cf9c-1aa3-4ab0-877e-e8d5a7f0d20b@f199.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250428
+SUMMARY:University remained closed due to unforeseen circumstances
+UID:f1c46c4d-6be9-4c0e-9143-a2ee5578e3ac@f1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+SUMMARY:Holiday: May Day
+UID:5cb0110c-f741-467d-8b70-d978a36dc691@5cb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250309
+SUMMARY:Last day of Course Advising & Registration with a Fine of Tk. 500/-
+UID:ac675df8-dfec-4463-9478-f84ac3655cd6@ac67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250411
+SUMMARY:Mid-Term Exam
+UID:80c482f9-7332-4c71-b076-91dfa194505a@80c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Classes Begin
+UID:85d623bc-b232-4410-9e23-dd53f37b0eab@85d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Last day to drop course(s) with 100% adjustable refund only
+UID:fb0bd83a-5dd3-4a41-b31c-57a794310e2c@fb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250326
+SUMMARY:Holiday: Independence and National Day
+UID:5836d64f-9fb3-42a9-b32f-cae982e5eef1@5836.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250304
+SUMMARY:Last day of Grade Submission for Project/ Thesis/ Internship
+UID:6dadbd4a-9285-4b38-b9ab-b48fbc792024@6dad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250309
+SUMMARY:Last day of Grade Submission of Incomplete Grades of Fall 2024 Trimester by concerned Department/Program Office
+UID:c22cc8f9-1cf4-479a-b0fe-28900bd0815d@c22c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250511
+SUMMARY:Holiday: *Buddha Purnima
+UID:ce6860d7-a1e5-4a8a-a0ac-df19ab8479be@ce68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Orientation Program: All Undergraduate & Graduate Programs at 3:00 PM
+UID:a34937cc-f1eb-42cd-8ca4-a8daeb996f29@a349.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Last day to apply for Grade Change of a course (if any) of Fall 2024 Trimester.\nNote: No application will be considered after the deadline.
+UID:daab5d7b-0a94-4487-9f88-e22c97f8a6d4@daab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250220
+SUMMARY:Last day of Course Advising & Registration without Fine
+UID:cedf8bbd-744f-40e7-8bd8-36364fc3b5c9@cedf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Holiday: *Ashura
+UID:28f7aa7e-43aa-4538-8db3-12a1af63bc4e@28f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Final Exam
+UID:02104eff-cd9f-46ba-9873-d00b35ae5842@0210.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250327
+SUMMARY:Holiday: Jumu’atul-Widaa/ *Shab-e-Qad’r /*Eid-ul-Fit’r
+UID:37be7ad7-c541-4a98-a432-c74e8991f983@37be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250317
+SUMMARY:1st installment: A fine of Tk. 500/- will be imposed if 40% Tuition Fee and Trimester Fee is not paid within this date.\nTransportation fee\, if applicable\, must be paid in full (no installment)
+UID:bcdc549a-d669-4567-a3f7-e634dea135a5@bcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250221
+SUMMARY:Holiday: Shaheed Dibash & International Mother language day
+UID:4203565e-51e2-4627-a00c-b9d1da091756@4203.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+SUMMARY:Holiday: *Eid-ul-Azha
+UID:23b89b3a-3911-49a6-8010-4c23e695c3e0@23b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250413
+SUMMARY:2nd installment: A fine of Tk. 500/- will be imposed if 70% Tuition Fee and Trimester Fee is not paid within this date.
+UID:eaf109a6-3a5c-4063-9659-4a2a2f4b005f@eaf1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250414
+SUMMARY:Holiday: Bangla New Year
+UID:19d2afbd-ed47-4b00-8a6b-81134344daf1@19d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+SUMMARY:Make-up class: Regular Saturday Classes
+UID:43eec646-cd7c-484e-a327-18c159e99332@43ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+SUMMARY:Classes resume
+UID:5d600ae8-13ea-482a-9eb3-1a02107b1fed@5d60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250218
+SUMMARY:Course Advising & Registration
+UID:a0c2d13a-3979-41cb-813e-32388466f076@a0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+SUMMARY:3rd installment:  A fine of Tk. 500/- will be imposed if 100% Tuition Fee and Trimester Fee is not paid within this date
+UID:7aaee49b-1c5a-4837-a234-f5ee4ec97192@7aae.org
+END:VEVENT
+END:VCALENDAR
